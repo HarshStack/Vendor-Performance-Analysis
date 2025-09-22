@@ -2,6 +2,7 @@
 📌 Project Overview
 
 This project focuses on analyzing vendor performance using data ingestion pipelines, exploratory analysis, and visualization dashboards. The solution integrates data from multiple CSV sources into a structured database, performs performance analysis in Python (Jupyter Notebook), and visualizes insights using Power BI.
+
 ![image](<img width="1079" height="576" alt="image" src="https://github.com/user-attachments/assets/ec769d2e-45da-482b-a802-5c66a9fdf314" />)
 
 
