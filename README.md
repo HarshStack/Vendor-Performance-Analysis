@@ -8,8 +8,11 @@ This project focuses on analyzing vendor performance using data ingestion pipeli
 
 
 The workflow enables businesses to:
+
 Automate data ingestion from raw CSV files into a database.
+
 Perform data cleaning, preprocessing, and analysis.
+
 Generate interactive vendor performance dashboards for decision-making.
 
 <img width="686" height="796" alt="image" src="https://github.com/user-attachments/assets/9d4ecabf-9ecd-4a14-bd16-bc41af5a1f9e" />
