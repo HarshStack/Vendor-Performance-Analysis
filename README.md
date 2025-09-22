@@ -31,6 +31,8 @@ The workflow enables businesses to:
 <img width="646" height="765" alt="image" src="https://github.com/user-attachments/assets/abf043ce-5841-42b7-9eac-db0d4cc65f08" />
 <img width="607" height="764" alt="image" src="https://github.com/user-attachments/assets/4e320a0c-0018-400d-8184-c485c05ff7e5" />
 <img width="636" height="676" alt="image" src="https://github.com/user-attachments/assets/31244ece-f14e-4211-b62e-d7d7c095e601" />
+<img width="1244" height="736" alt="image" src="https://github.com/user-attachments/assets/1bb6809b-5419-459c-95c9-a024f1a2eb4b" />
+
 
 
 
