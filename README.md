@@ -45,7 +45,15 @@ The workflow enables businesses to:
 
 🛠️ Tech Stack
 -Python (Pandas, SQLAlchemy, Jupyter Notebook)
+
 -SQLite (lightweight database for data storage)
+
 -Power BI (dashboard visualization)
+
 -Logging for process monitoring
+
+👤 Author
+
+Developed by 
+🔗 GitHub: https://github.com/HarshStack/
 
